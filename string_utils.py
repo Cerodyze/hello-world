@@ -10,7 +10,8 @@ def reverse_string(text):
 
 def is_palindrome(text):
     """Check if a string is a palindrome."""
-    cleaned = text.lower().replace(" ", "")
+    # Remove all non-alphanumeric characters and convert to lowercase
+    cleaned = ''.join(char.lower() for char in text if char.isalnum())
     return cleaned == cleaned[::-1]
 
 
