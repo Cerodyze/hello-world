@@ -6,7 +6,7 @@ This is my first repository for various functional tests.
 
 ## 声明 / Declaration
 
-⚠️ **重要声明**: 该仓库将几乎全程由AI完成，而且本人对代码一窍不通。（但指令作者是我）
+⚠️ **重要声明**: 该仓库将几乎全程由AI完成，因为本人对代码一窍不通。
 
 ⚠️ **Important Declaration**: This repository will be almost entirely completed by AI, and I personally know nothing about code. (But I am the instruction author)
 
